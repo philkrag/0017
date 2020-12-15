@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Desktop_Interfacer
+namespace Desktop_Interface
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Desktop_Interfacer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Main_Menu());
         }
     }
 }

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Desktop Interfacer")]
+[assembly: AssemblyTitle("Desktop Interface")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Desktop Interfacer")]
+[assembly: AssemblyProduct("Desktop Interface")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0e4fde5b-207c-49bd-9c01-6a6fedd1ca46")]
+[assembly: Guid("4e75ab84-9787-4120-8b9f-68d12bc6bff3")]
 
 // Version information for an assembly consists of the following four values:
 //

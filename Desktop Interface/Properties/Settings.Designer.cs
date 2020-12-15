@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Desktop_Interfacer.Properties
+namespace Desktop_Interface.Properties
 {
 
 
